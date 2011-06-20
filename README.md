@@ -7,3 +7,4 @@ freemarker example will make that more easier.
 I'll do this as a maven project since that seems to
 be the current accepted java build/dependency system.
 
+[http://www.freemarker.org/docs/index.html](freemarker manual)
